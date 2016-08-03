@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GasolinaXAlcool</string>
+    <string name="texto_resultado_nenhum">Nenhum resultado</string>
 </resources>
